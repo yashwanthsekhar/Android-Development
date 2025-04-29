@@ -21,23 +21,6 @@ Kotlin (latest version)
 
 Android SDK (for building and running Android applications)
 
-Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/visio-bot-app.git
-Open the project in Android Studio:
-
-Go to File > Open and select the cloned project folder.
-
-Build and run the application:
-
-Connect an Android device or use the Android Emulator.
-
-Click the Run button in Android Studio to install and run the app.
-
 Usage
 Once the app is launched, you can start chatting with the bot through the interface. Type a message and the bot will respond accordingly based on the predefined responses.
 
